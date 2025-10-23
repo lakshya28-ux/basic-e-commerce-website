@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p1",
+    "title": "Classic T-Shirt",
+    "description": "Comfortable cotton t-shirt",
+    "price": 499.0,
+    "image": "images/products/p1.jpg"
+  },
+  {
+    "id": "p2",
+    "title": "Slim Jeans",
+    "description": "Stylish slim-fit denim",
+    "price": 1299.0,
+    "image": "images/products/p2.jpg"
+  },
+  {
+    "id": "p3",
+    "title": "Running Shoes",
+    "description": "Lightweight running shoes",
+    "price": 2999.0,
+    "image": "images/products/p3.jpg"
+  },
+  {
+    "id": "p4",
+    "title": "Wireless Headphones",
+    "description": "Over-ear noise cancelling",
+    "price": 4999.0,
+    "image": "images/products/p4.jpg"
+  },
+  {
+    "id": "p5",
+    "title": "Leather Wallet",
+    "description": "Premium leather wallet",
+    "price": 899.0,
+    "image": "images/products/p5.jpg"
+  },
+  {
+    "id": "p6",
+    "title": "Sunglasses",
+    "description": "UV protected sunglasses",
+    "price": 699.0,
+    "image": "images/products/p6.jpg"
+  }
+]
